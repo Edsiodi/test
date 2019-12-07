@@ -6,4 +6,4 @@ create a new branch named dev
 origin branch named master
 new branch named feature1
 new branch named dev
-test fast forward in log graph
+Test fast forward in log graph
